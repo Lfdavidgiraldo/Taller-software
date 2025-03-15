@@ -1,4 +1,4 @@
-**Nombre de la materia** Software 1
+##Nombre de la materia: Software 1
 **Nombre del proyecto** ConsumerApi
 **Integrantes**
 *Luisa Fernanda David Giraldo
